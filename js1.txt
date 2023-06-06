@@ -6,7 +6,7 @@ There are two ways to write the comments in JavaScript:
 
 1. // This is an in-line comment. it is used to write single line commment.
 
-2. /* This is a multiline comment.
+2.  /* This is a multiline comment.
     It is used to comment out multiple lines in the code*/
 
 Comments are very useful as they are used to provide information and matadata and the functioning of the code.
