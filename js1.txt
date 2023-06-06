@@ -10,3 +10,30 @@ There are two ways to write the comments in JavaScript:
     It is used to comment out multiple lines in the code*/
 
 Comments are very useful as they are used to provide information and matadata and the functioning of the code.
+
+
+In computer science, data is anything that is meaningful to the computer.
+JavaScript provides eight different data types which are:
+
+1. Undefined
+2. Null
+3. Boolean
+4. String
+5. Symbol
+6. Bigint
+7. Number
+8. Object
+
+Variables
+
+Variables allow computers to store and manipulate data in a dynamic fashion.
+They do this by using a "label" to point to the data rather taht using the data itself.
+Any of the eignh data types may be stored in a variable.
+
+Variables are similar to the x and y variables you use in mathematics, which means they're a simple name to represent the data we want to refer to.
+Computer variable differ from mathematical variable in that they can store different values at different times.
+
+In JavaScript we can create a variable by putting the keyword ""Var"" in front of it like,
+
+var var_name;
+
