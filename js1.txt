@@ -37,3 +37,8 @@ In JavaScript we can create a variable by putting the keyword ""Var"" in front o
 
 var var_name;
 
+In JavaScript we can store a value in a variabli with the assignment operator(+)
+
+var_name=5;
+This assigns the Number value 5 to var_name.
+We can also assign the value of one variable to another variable using assignment operator.
