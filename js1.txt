@@ -42,3 +42,12 @@ In JavaScript we can store a value in a variabli with the assignment operator(+)
 var_name=5;
 This assigns the Number value 5 to var_name.
 We can also assign the value of one variable to another variable using assignment operator.
+
+var myVar;
+myVar=5;
+var myNum;
+myNum=myVar;
+
+The most common way to assign the value is by initializing a variable and assigning the value at the same time.
+
+var myVar = 2;
