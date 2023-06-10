@@ -2,3 +2,8 @@ We can also give the string value to the variable by using string literals.
 String literals are is a series of zero or more characters enclosed in a single or double quotes.
 
 var myName = "My name is Aman Lath.";
+
+When JavaScript variables are declared, they have an initial value of undefined. If you do a
+mathematical operation on an undefined variable, your result will be NaN, Which means "Not a NUmber".
+If you concatenate a string with an undefined variable, you will get a string with an undefined 
+variable, you will get a string of undefined
