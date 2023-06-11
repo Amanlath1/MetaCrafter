@@ -11,3 +11,22 @@ variable, you will get a string of undefined.
 JavaScript is a case-sensitive language . This means capitalization matters.
 
 myvar, MYVAR, myVar - all of these are different.
+
+One of the biggest problems with declaring variables with the var keyword is that you can easily overwrite
+variables.
+
+var camper = "Aman";
+var camper = "Abhishek";
+console.log(camper);
+
+It will give output Abhishek As Aman was overwritten by Abhishek.
+
+In a small application, you might not run into this type of problem. But as your codebase becomes larger,
+you might accidentally overwrite a variable that you did not intend to. Because this behavior does not throw
+an error, searching for and fixing bugs becomes more difficult.
+
+A keyword let was introduced in ES, a major update to JavaScript, to solve this potential issue with the var keyword.
+
+let camper = "Aman";
+let camper = "Abhishek";
+
