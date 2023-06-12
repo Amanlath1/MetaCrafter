@@ -6,3 +6,7 @@ console.log(str1);
 
 var str2 = str + str1;
 console.log(str2);
+
+var str3 = str;
+str3 += str1;
+console.log(str3);
