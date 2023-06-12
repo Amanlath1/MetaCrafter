@@ -32,3 +32,8 @@ console.log(num1);
 var num2 = 2;
 num2 *= 2;
 console.log(num2);
+
+//augmented division
+var num3 = 4;
+num3 /= 2;
+console.log(num3);
