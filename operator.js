@@ -22,3 +22,8 @@ console.log(rem);
 var num = 1;
 num += 5;
 console.log(num);
+
+//augmented substraction
+var num1 = 5;
+num1 -= 2;
+console.log(num1);
