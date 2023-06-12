@@ -5,3 +5,28 @@ In JavaScript, we can escape a quote from considering it as an end of string quo
 
 String values in JavaScript can be written with single or double quotes, as long as you start and end with same type of quote.
 and we can use both literals in the same string as.
+But we need to use this with precautions as we have to use the quotes as per the featuring inside the string.
+
+Escape sequence in String: 
+
+There are two reasons to use escaping Characters:
+
+1. To allow you to use characters you may not otherwise be able to type out, such as a newline.
+2. To allow you to represent multiple quotes in a string without JavaScript misinterpreting what you mean.
+
+\' - single quote
+\" - double quote
+\\ - backslash
+\\n - newline
+\t - tab
+\r - carriage return
+\b - word boundary
+\f - form feed
+
+In JavaScript, when the + operator is used with a string value, it is called the concatenation operator.
+you might build a new string out of other strings by concatenating them together.
+
+'My name is Aman' + ', I am a Computer Science specilization in DevOps student.'
+it will generate output as"
+My name is Aman, I am a Computer Science specilization in DevOps student.
+
