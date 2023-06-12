@@ -13,3 +13,7 @@ console.log(mul);
 //Division
 const div =4 / 2;
 console.log(div);
+
+//Remainder
+const rem = 5 % 2;
+console.log(rem);
