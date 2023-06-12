@@ -33,3 +33,9 @@ My name is Aman, I am a Computer Science specilization in DevOps student.
 We can also concatinate the string using augmented addition operator +=:
  var str = "Hello my name is Aman.";
  str += " I am a student.";
+
+Sometimes you will need to build a string. By using the Concatenation operator +,
+we can insert one or more variables into a string you're building.
+
+const name = "Aman";
+var str = "Hello, my name is " + name + "I am a Student."
