@@ -2,3 +2,6 @@ When we are defining a string we must start and end with a single or double quot
 what to do when we need literal quotes " or ' inside of our string.
 
 In JavaScript, we can escape a quote from considering it as an end of string quote by placing a backslash\ in front of the quote.
+
+String values in JavaScript can be written with single or double quotes, as long as you start and end with same type of quote.
+and we can use both literals in the same string as.
