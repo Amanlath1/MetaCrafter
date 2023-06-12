@@ -14,3 +14,8 @@ JavaScript uses the * symbol as an multiplication of two numbers.
 
 const mul = 13 * 13;
 It now has value 169.
+
+JavaScript uses the / symbol for division of two numbers.
+
+const div = 4 / 2;
+It now has value 2.
