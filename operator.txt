@@ -9,3 +9,8 @@ JavaScript uses the - symbol as an substraction operator when placed between two
 
 const myVar = 12 - 6;
 It now has value 6.
+
+JavaScript uses the * symbol as an multiplication of two numbers.
+
+const mul = 13 * 13;
+It now has value 169.
