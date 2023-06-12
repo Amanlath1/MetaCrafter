@@ -50,3 +50,9 @@ One such operator is the += operator
 myVar = 1;
 myVar += 5;
 it will change the value to 6.
+
+other operator is -= operator
+
+myVar = 5;
+myVar -= 2;
+it will change the value to 3.
