@@ -28,7 +28,7 @@ we can decrease the value of any variable by 1 by using decreament operator.
 
 --
 
-We can store decinal numbers in variables too.
+We can store decimal numbers in variables too.
 Decimal numbers are sometimes referred to as floating point numbers or floats.
 
 In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
