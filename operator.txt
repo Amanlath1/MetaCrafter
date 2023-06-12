@@ -62,3 +62,9 @@ other operator is *= operator
 myVar = 2;
 myVar *= 2;
 it will change the value to 4.
+
+other operator is /= operator
+
+myVar = 4;
+myVar /= 2;
+it will change the value to 2.
