@@ -1,7 +1,11 @@
 Number is the data type in JavaScript that represents numeric data.
 
-JavaScriptuses the + symbol as an addition operator when placed between two numbers.
+JavaScript uses the + symbol as an addition operator when placed between two numbers.
 
 const myvar = 5 + 10;
-
 It now has value 15.
+
+JavaScript uses the - symbol as an substraction operator when placed between two numbers.
+
+const myVar = 12 - 6;
+It now has value 6.
