@@ -10,3 +10,7 @@ console.log(str2);
 var str3 = str;
 str3 += str1;
 console.log(str3);
+
+const name = "Aman";
+var str4 = "Hello, my name is " + name + " I am a Student.";
+console.log(str4);
