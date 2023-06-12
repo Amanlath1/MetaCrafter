@@ -27,3 +27,8 @@ console.log(num);
 var num1 = 5;
 num1 -= 2;
 console.log(num1);
+
+//augmented multiplication
+var num2 = 2;
+num2 *= 2;
+console.log(num2);
