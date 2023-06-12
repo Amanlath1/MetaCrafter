@@ -56,3 +56,9 @@ other operator is -= operator
 myVar = 5;
 myVar -= 2;
 it will change the value to 3.
+
+other operator is *= operator
+
+myVar = 2;
+myVar *= 2;
+it will change the value to 4.
