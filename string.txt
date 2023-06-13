@@ -46,3 +46,8 @@ append variablesto a string using += operator.
 const name1 = "Aman";
 var line = "My name is "
 line += name1;
+
+We can find the length of a string  value by writing ".length" after the string variables or string literal.
+
+const name2 = "I am a student";
+console.log(name2.length);
