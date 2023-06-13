@@ -19,3 +19,6 @@ const name1 = "Aman";
 var line = "My name is "
 line += name1;
 console.log(line);
+
+const name2 = "I am a student";
+console.log(name2.length);
