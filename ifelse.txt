@@ -23,3 +23,5 @@ The inequality operator (!=) is the opposite of the equality operator. it means 
 
 Strict inequality !== is the counterpart to the inequality operator !=. However, unlike the inequality operator, which attempts to convert both
 values being compared to a common type, the strict inequality operator does not perform a type conversion.
+
+There are other operators like greater that(>) and less than(<) operators. These check if the condition is greter or samaller then the variable given.
