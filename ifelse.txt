@@ -1,2 +1,13 @@
 The another data type is the Boolean. Booleans may only be one of two values: true or false.
 They are basically on-off switches, where true is on and false is off. These two states are mutually exclusive.
+
+If statements are used to make decisions in code. The keyword if tells JavaScript to execute the code in the curly
+braces under certain conditions are known as Boolean conditions and they may only be true or false.
+When the condition evaluates to true, the programexecutes the statement inside the curly braces. When the Boolean condition
+evalueates to false, the statement  inside the curly braces will not execute.
+
+Pseudocode: 
+
+if (Condition is true) {
+    statement is executed;
+}
