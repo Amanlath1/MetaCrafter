@@ -51,3 +51,8 @@ We can find the length of a string  value by writing ".length" after the string 
 
 const name2 = "I am a student";
 console.log(name2.length);
+
+In JavaScript, String values are immutable , which means that they cannot be altered once created.
+This means if we want to change the value of the string from the specific position we cannot change it to do such changes we have
+to re-assign the value of the string.
+
