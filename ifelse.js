@@ -19,6 +19,15 @@ if (num !== 0) {
 if (num > 0) {
     console.log("Num is greater then 0.");
 }
+
 if (num < 2) {
     console.log("Num is less then 2.");
+}
+
+if (num >= 1) {
+    console.log("Num is equal to 1.");
+}
+
+if (num <= 1) {
+    console.log("Num is equal to 1");
 }
