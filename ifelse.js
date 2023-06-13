@@ -7,3 +7,7 @@ if (num==1) {
 if (num===1) {
     console.log("Strict equality workes well.");
 }
+
+if (num!=0) {
+    console.log("Inequality operator workes well.");
+}
