@@ -15,3 +15,10 @@ if (num != 0) {
 if (num !== 0) {
     console.log("Strict inequality workes well.");
 }
+
+if (num > 0) {
+    console.log("Num is greater then 0.");
+}
+if (num < 2) {
+    console.log("Num is less then 2.");
+}
