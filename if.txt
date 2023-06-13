@@ -35,3 +35,5 @@ of if statements inside other.
 if (num > 5 && num < 10) {
   return "Yes";
 }
+
+The logical or operator (||) return true value if either of the operand is true . otherwise, it returns false.
