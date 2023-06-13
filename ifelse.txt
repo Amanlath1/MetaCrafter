@@ -25,3 +25,6 @@ Strict inequality !== is the counterpart to the inequality operator !=. However,
 values being compared to a common type, the strict inequality operator does not perform a type conversion.
 
 There are other operators like greater that(>) and less than(<) operators. These check if the condition is greter or samaller then the variable given.
+
+There are other operators like greater then equals operator(>=) at the same condition check and less than equals operator(<=) at the same condition check.
+These check that if number is greater or eual at the same time or less or equals at the same time.
