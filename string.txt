@@ -39,3 +39,10 @@ we can insert one or more variables into a string you're building.
 
 const name = "Aman";
 var str = "Hello, my name is " + name + "I am a Student."
+
+Just as we can build a string over multiple lines out of string literals, we can also
+append variablesto a string using += operator.
+
+const name1 = "Aman";
+var line = "My name is "
+line += name1;
