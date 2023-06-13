@@ -35,3 +35,7 @@ if (num <= 1) {
 if (num > 0 && num < 2) {
     console.log("Logical and operator works well.");
 }
+
+if (num == 1 || num == 2) {
+    console.log("Logical or operator works well.");
+}
