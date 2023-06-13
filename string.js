@@ -14,3 +14,8 @@ console.log(str3);
 const name = "Aman";
 var str4 = "Hello, my name is " + name + " I am a Student.";
 console.log(str4);
+
+const name1 = "Aman";
+var line = "My name is "
+line += name1;
+console.log(line);
