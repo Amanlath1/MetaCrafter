@@ -31,3 +31,7 @@ if (num >= 1) {
 if (num <= 1) {
     console.log("Num is equal to 1");
 }
+
+if (num > 0 && num < 2) {
+    console.log("Logical and operator works well.");
+}
