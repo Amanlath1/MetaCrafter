@@ -11,3 +11,7 @@ Pseudocode:
 if (Condition is true) {
     statement is executed;
 }
+
+There are many comparison operators in JavaScript. All these operators return a boolean true or false value.
+The most basic operator is the equality operator ==. This is called equality operator. If the value is equal it will give Boolean true.
+If the value is not equal it will give Boolean false.
