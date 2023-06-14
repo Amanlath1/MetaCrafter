@@ -4,3 +4,9 @@ square bracket, and comma between each entry.
 
 We can also nest arrays within each other in simple words we can place array
 inside the array. It is also called multi-dimensional array.
+
+We can access the data inside arrays using its indexes.
+Array index are written in the same bracket notation that string use, except
+that instead of specifing a character, they are specifying an entry in the array.
+Like strings, array use zero-based indexing, so the first element in an array has
+an index of 0.
