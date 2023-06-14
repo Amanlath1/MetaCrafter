@@ -1,3 +1,6 @@
 In JavaScript array variables, can store several pieces of data in one place.
 We can start an array with an opening square bracket, end it with a closing
 square bracket, and comma between each entry.
+
+We can also nest arrays within each other in simple words we can place array
+inside the array. It is also called multi-dimensional array.
