@@ -1,3 +1,5 @@
 When the condition of if statement is true, the block of code following it is executed. what happen when the
 condition becomes false Normally nothing would happen. but we want to tell that the condition is wrong what
 about that for that we use else statement, which will run when there all conditions become wrong.
+
+we can check multiple conditions at the same time using mutiple if statements using "else if" statements.
