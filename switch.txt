@@ -1,3 +1,8 @@
 If we have many option to chose from, use a switch statement. A switch statement tests a value and can have
 many cases statements which defines various possible values. Statements are executed from first matched case
 value until a break is encountered.
+NOTE: case values are tested with strict equality(===). The break statement is used to hault the flow of the
+code and come out of the block of the code.
+
+There is a default case in each switch statement. It is there if no case matches default statement automatically
+runs and tells no case matched. It is placed at the end as the last statement in the switch statement.
