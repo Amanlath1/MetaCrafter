@@ -7,3 +7,9 @@ console.log(array2);
 
 console.log(array1[1]);
 console.log(array2[1][1]);
+
+array1.push("Lath");
+console.log(array1);
+
+array2.push(["Lath", 15]);
+console.log(array2);
