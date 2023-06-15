@@ -13,3 +13,6 @@ console.log(array1);
 
 array2.push(["Lath", 15]);
 console.log(array2);
+
+const ele = array1.pop();
+console.log(ele);
