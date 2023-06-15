@@ -18,3 +18,6 @@ One way to think of a multi-dimensional array, is as an array of arrays. When yo
 use brackets to access your array, the first set of brackets refers to the entries
 in the outermost(the first level) array, and each additional pair of brackets refers
 to the next level of entries inside.
+
+An easy way to append data to the end of an array is via the push() function.
+.push() takes one or more parameters and "pushes" them onto the end of the array.
