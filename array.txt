@@ -10,3 +10,11 @@ Array index are written in the same bracket notation that string use, except
 that instead of specifing a character, they are specifying an entry in the array.
 Like strings, array use zero-based indexing, so the first element in an array has
 an index of 0.
+
+Unlike strings, the entries of an arrays are mutable and can be changed freely,
+even if the array was declared with const.
+
+One way to think of a multi-dimensional array, is as an array of arrays. When you
+use brackets to access your array, the first set of brackets refers to the entries
+in the outermost(the first level) array, and each additional pair of brackets refers
+to the next level of entries inside.
