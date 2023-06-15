@@ -21,3 +21,8 @@ to the next level of entries inside.
 
 An easy way to append data to the end of an array is via the push() function.
 .push() takes one or more parameters and "pushes" them onto the end of the array.
+
+Another way to change the data in an array is with the .pop() function.
+.pop() is used to pop the value off the end of the array. We can store this popped
+off value by assigning it to a variable. In other words, .pop() removes the last
+element from an array and returns that element.
