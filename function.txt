@@ -21,3 +21,6 @@ means they are only visible within that function.
 
 It is possible to have both local and global variables with the same name. When you do this, the local
 variable takes precedence over the global variable.
+
+The return statement is reached, the execution of the current function stops, and control returns to the
+calling location.
