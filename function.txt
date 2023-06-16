@@ -18,3 +18,6 @@ again. You should always declare your variable with let or const.
 
 Variables that are declared within a function, as well as the function parameters, have local scope. That
 means they are only visible within that function.
+
+It is possible to have both local and global variables with the same name. When you do this, the local
+variable takes precedence over the global variable.
