@@ -15,3 +15,5 @@ After we created a JavaScript object, we can update its properties at any time j
 other variable. You can use either dot or bracket notation to update.
 
 We can add new properties to the existing JavaScript objects the same way we modify them.
+
+We can also delete the properties from the JavaScript object using "delete" keyword.
