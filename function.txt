@@ -15,3 +15,6 @@ JavaScript code.
 Variables that are declared without the let or const keywords are automatically created in the
 global scope. This can create umintended consequences elsewhere in your code or when running a function
 again. You should always declare your variable with let or const.
+
+Variables that are declared within a function, as well as the function parameters, have local scope. That
+means they are only visible within that function.
