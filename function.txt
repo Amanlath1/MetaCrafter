@@ -1,0 +1,2 @@
+In JavaScript, we can divide up our code into reusable parts called functions.
+We can call or invoke the function by using its name followed by parentheses.
