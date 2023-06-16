@@ -24,3 +24,5 @@ console.log(age1);
 cat.feet = 4;
 const feet = cat.feet;
 console.log(feet);
+
+delete cat.feet;
