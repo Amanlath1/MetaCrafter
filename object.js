@@ -18,5 +18,5 @@ console.log(name);
 age = cat.age = 15;
 console.log(age);
 
-age1 = cat.age;
+const age1 = cat.age;
 console.log(age1);
