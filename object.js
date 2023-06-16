@@ -4,10 +4,19 @@ const cat = {
     "your height" : "5.9"
 };
 
-const name = cat.name;
-const age = cat.age;
+var name = cat.name;
+var age = cat.age;
 console.log(name);
 console.log(age);
 
 const height=cat["your height"];
 console.log(height);
+
+name = cat.name = "Abhishek";
+console.log(name);
+
+age = cat.age = 15;
+console.log(age);
+
+age1 = cat.age;
+console.log(age1);
