@@ -7,3 +7,6 @@ There are two ways to access the properties of an object:
 2. bracket notation([])
 
 Dot notation is what you use when you know the name of the property you're trying to access ahead of time.
+
+The second way to access the properties of an object is bracket notation([]). if the property of the object
+you are trying to access has a space in its name, you will need to use bracket notation.
