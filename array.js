@@ -16,3 +16,6 @@ console.log(array2);
 
 const ele = array1.pop();
 console.log(ele);
+
+const ele1 = array1.shift();
+console.log(ele1);
