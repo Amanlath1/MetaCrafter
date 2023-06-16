@@ -30,3 +30,7 @@ element from an array and returns that element.
 pop() always removes the last element of an array. What if you want to remove the first?
 That's where .shift() comes in. It works just like .pop(), except makes the first element
 instead of the last.
+
+We can't only take the element out of the array from the beginning of an array.
+We can also add the element in the array in the beginning of the array, using
+.unshift() it works exactly as .push().
