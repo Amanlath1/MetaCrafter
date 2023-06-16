@@ -1,0 +1,3 @@
+Objects are similar to arrays, except that instead of using indexes to access and modify their data,
+you access the data in objects through properties.
+Objects are usefuol for storing data in a structured way, and can represent real world objects, like a cat.
