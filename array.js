@@ -19,3 +19,9 @@ console.log(ele);
 
 const ele1 = array1.shift();
 console.log(ele1);
+
+array1.unshift("Dinesh");
+console.log(array1);
+
+array2.unshift(["Dinesh", 14]);
+console.log(array2);
