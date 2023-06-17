@@ -9,3 +9,5 @@ A for loop can also count backwards, so long as we can define the right conditio
 we'll need to change our initialization, condition, and final expression.
 
 A common task in JavaScript is to iterate through the contents of an array. One way to do that is with a for loop.
+
+If we have a multi-dimensional array we can use the concept of nesting of the loops to get the desired result.
