@@ -2,3 +2,5 @@ You can run the sam code multiple times by using a loop.
 
 The first type of loop we will learn is called a while loop because it runs while a specified condition is true and stops
 that condition is no longer true.
+
+Most common type of JavaScript loops is called for loop because it runs for a specific number of times.
