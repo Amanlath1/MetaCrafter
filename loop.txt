@@ -4,3 +4,8 @@ The first type of loop we will learn is called a while loop because it runs whil
 that condition is no longer true.
 
 Most common type of JavaScript loops is called for loop because it runs for a specific number of times.
+'for' loops don't have to iterate one at a time. By changing our final-expression, we can count by even numbers.
+A for loop can also count backwards, so long as we can define the right conditions. In order to decrement by two iteration,
+we'll need to change our initialization, condition, and final expression.
+
+A common task in JavaScript is to iterate through the contents of an array. One way to do that is with a for loop.
