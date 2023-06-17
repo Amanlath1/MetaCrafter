@@ -22,3 +22,16 @@ for (let i = 0; i < arr1.length; i++) {
     }
     
 }
+
+const arr2 = [];
+let i = 0;
+
+do {
+  arr2.push(i);
+  i++;
+} while (i < 5);
+
+for (let i = 0; i < arr2.length; i++) {
+    console.log(arr2[i]);
+    
+}
